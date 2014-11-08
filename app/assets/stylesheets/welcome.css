@@ -1,0 +1,15 @@
+body{
+  //background-image: url("/assets/bg-image.jpeg");
+}
+.header_color{
+  background-color:#E6E6E6;
+  border-color: #ADADAD;
+  min-height:50px;
+  max-height:50px;
+}
+.marginRight100{
+  margin-right:100px;
+}
+.navbar-font-color{
+  color:#fff !important;
+}
